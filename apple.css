@@ -6,3 +6,8 @@ h1{
     text-align: center;
     font-size: 85px;
 }
+
+#cim{
+    text-transform: capitalize;
+    text-decoration: double;
+}
