@@ -21,3 +21,8 @@ body{
     font-size: 45px;
     color: black;
 }
+
+.hero-line{
+    font-size: small;
+    color: grey;
+}
