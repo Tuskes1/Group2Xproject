@@ -13,5 +13,16 @@ body{
 }
 
 .typography-hero-line{
-    
+    font-size: 45px;
+    color: black;
+}
+
+.hero-headline-line-1{
+    font-size: 45px;
+    color: black;
+}
+
+.hero-line{
+    font-size: small;
+    color: grey;
 }
