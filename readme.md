@@ -1,4 +1,4 @@
 ## Csapattagok
-- Tüskés Bálint
-- Miliczki Áron
-- Tóth Lehel
+- Tüskés Bálint (apple)
+- Miliczki Áron (termekek)
+- Tóth Lehel (szolgaltatas)

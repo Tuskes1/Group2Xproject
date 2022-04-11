@@ -11,3 +11,7 @@ h1{
     text-transform: capitalize;
     text-decoration: double;
 }
+
+#homelogo{
+    font-size: 1px;
+}
