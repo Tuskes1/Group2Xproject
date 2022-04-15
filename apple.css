@@ -23,5 +23,14 @@ h1{
 }
 
 #brekeke{
-    width: 330px;
+    width: 250px;
+}
+
+#tovabb:hover{
+    background-color: dimgray;
+    color: white;
+}
+
+#tovabb{
+float: right;
 }
