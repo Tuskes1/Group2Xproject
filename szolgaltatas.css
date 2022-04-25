@@ -26,3 +26,9 @@ body{
     font-size: small;
     color: grey;
 }
+
+.navbartext{
+    font-size: 30px;
+    color: black;
+    margin-left: 12px;
+}
