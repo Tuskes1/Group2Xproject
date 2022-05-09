@@ -14,8 +14,8 @@ body{
 }
 
 #kep{
-    width: 300px;
-    height: 300px;
+    width: 600px;
+    height: 400px;
 }
 
 .card{
@@ -23,5 +23,5 @@ body{
 }
 
 .card img{
-    width: 300px;
+    width: 400px;
 }
